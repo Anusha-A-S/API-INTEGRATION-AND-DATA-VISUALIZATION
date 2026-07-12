@@ -1,18 +1,19 @@
 # API-INTEGRATION-AND-DATA-VISUALIZATION
 
-"COMPANY": CODTECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
-"NAME": ANUSHA ASHOK SANNINGAPPANAVAR
+NAME: ANUSHA ASHOK SANNINGAPPANAVAR
 
-"INTERN ID": CITS231
+INTERN ID: CITS231
 
-"DOMAIN": PYTHON PROGRAMMING
+DOMAIN: PYTHON PROGRAMMING
 
-"DURATION": 8 WEEKS
+DURATION: 8 WEEKS
 
-"MENTOR": NEELA SANTOSH
+MENTOR: NEELA SANTOSH
 
-## In this project, API Integration and Data Visualization using Python, demonstrates how to integrate a public REST API with Python to retrieve real-time weather information and visualize the collected data using data visualization libraries.The OpenWeatherMap API is used to fetch live weather details such as temperature, humidity, weather conditions, and wind speed for different Indian states/cities including Karnataka, Jammu, Rajasthan, and Kerala. After retrieving the data, Python processes the JSON response and presents the information through various charts,visualizations created with Matplotlib and seaborn.The project helps in understanding API requests, JSON data handling, and basic data visualization techniques, making it suitable for beginners learning Python and data analysis.                                     
+# DISCRIPTION: 
+In this project, API Integration and Data Visualization using Python, demonstrates how to integrate a public REST API with Python to retrieve real-time weather information and visualize the collected data using data visualization libraries.The OpenWeatherMap API is used to fetch live weather details such as temperature, humidity, weather conditions, and wind speed for different Indian states/cities including Karnataka, Jammu, Rajasthan, and Kerala. After retrieving the data, Python processes the JSON response and presents the information through various charts,visualizations created with Matplotlib and seaborn.The project helps in understanding API requests, JSON data handling, and basic data visualization techniques, making it suitable for beginners learning Python and data analysis.                                     
 Objectives: > Fetch real-time weather data from the OpenWeatherMap API.
             > Parse JSON responses using Python.
             > Display weather information such as:
