@@ -38,22 +38,22 @@ plt.bar(labels,values)
 plt.title("weather data of jammu")
 plt.show()
 
-# Weather data of Rajastan
-city_name = 'Rajastan'
+# Weather data of Rajasthan
+city_name = 'Rajasthan'
 API_key = '94618497d80f0baad7e6c2a646b9dcf3'
 url = f'https://api.openweathermap.org/data/2.5/weather?q={city_name}&appid={API_key}&units=metric'
 response = requests.get(url)
 if response.status_code == 200:
     data = response.json()
     print(data)
-    print('Jmamu weather', data['weather'][0]['description'])
+    print('Rajathan weather', data['weather'][0]['description'])
     print('current temperature is', data['main']['temp'])
     print('current humidity is', data['main']['humidity'])
     print('current wind speed is', data['wind']['speed'])
 labels = ['temperature','humidity','wind speed']
 values = [data ['main']['temp'],data ['main']['humidity'],data ['wind']['speed']]
 plt.bar(labels,values)
-plt.title("weather data of Rajastan")
+plt.title("weather data of Rajasthan")
 plt.show()
 
 # Weather data of Kerala
@@ -74,7 +74,7 @@ plt.bar(labels,values)
 plt.title("weather data of Kerala")
 plt.show()
 
-states = ['Karnataka','Jammu','Rajastan','Kerala']
+states = ['Karnataka','Jammu','Rajasthan','Kerala']
 temperature = [ 27.74,33.15,37.37,25.82]
 humidity = [94,18,24,80]
 
