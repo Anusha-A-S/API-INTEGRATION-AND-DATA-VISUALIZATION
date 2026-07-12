@@ -48,4 +48,5 @@ The program generates:
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/0f40d839-0c56-4540-8713-001500931b20" />
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/6476b0f8-2b15-4ea4-bbab-13c25665d417" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/33108cb3-8c24-4b38-9d27-cfdf38040a6d" />
             
