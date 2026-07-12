@@ -47,4 +47,5 @@ The program generates:
 > Comparative graphs showing temperature variations among different locations.
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/0f40d839-0c56-4540-8713-001500931b20" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/6476b0f8-2b15-4ea4-bbab-13c25665d417" />
             
